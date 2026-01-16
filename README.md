@@ -1,6 +1,6 @@
 📊 YouTube Channel Performance Dashboard (Excel)
 
-<img width="1340" height="744" alt="Screenshot 2026-01-12 105358" src="https://github.com/user-attachments/assets/f70e5f4a-a62c-4dc0-9346-a3fcc627ad39" />
+<img width="1560" height="747" alt="image" src="https://github.com/user-attachments/assets/61640dfd-1ea1-4398-a2ff-4f6588a92da1" />
 
 📌 Project Overview
 
