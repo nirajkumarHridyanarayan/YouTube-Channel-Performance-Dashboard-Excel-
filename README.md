@@ -1,10 +1,6 @@
 📊 YouTube Channel Performance Dashboard (Excel)
 
-<h2 align="center">📊 YouTube Channel Performance Dashboard</h2>
-
-<p align="center">
-  <img src="YTDashboard.png" alt="YouTube Channel Performance Dashboard" width="100%">
-</p>
+<img width="1340" height="744" alt="Screenshot 2026-01-12 105358" src="https://github.com/user-attachments/assets/f70e5f4a-a62c-4dc0-9346-a3fcc627ad39" />
 
 📌 Project Overview
 
